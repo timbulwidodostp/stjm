@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p stjm Fit shared parameter joint models (modelling) of longitudinal and survival data Use stjm With STATA 19
