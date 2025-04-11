@@ -1,4 +1,30 @@
-D 'DEA': Data envelopment analysis
+D 'stjm': Fit shared parameter joint models (modelling) of longitudinal and survival data Use stjm With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F build_stpm2_mlib.ado
+F lstjm.mlib
+F lstpm2.mlib
+F rcsgen.ado
+F rcsgen.sthlp
+F rcsgen_example.ado
+F stjm.ado
+F stjm.sthlp
+F stjm_gaussquad.ado
+F stjm_postestimation.sthlp
+F stjm_pred.ado
+F stpm2.ado
+F stpm2.sthlp
+F stpm2_centpred.ado
+F stpm2_matacode.mata
+F stpm2_ml_hazard.ado
+F stpm2_ml_hazard_rs.ado
+F stpm2_ml_lf_hazard.ado
+F stpm2_ml_lf_hazard_rs.ado
+F stpm2_ml_lf_log.ado
+F stpm2_ml_lf_normal_rs.ado
+F stpm2_ml_lf_theta.ado
+F stpm2_ml_lf_theta_rs.ado
+F stpm2_ml_normal.ado
+F stpm2_ml_odds.ado
+F stpm2_ml_odds_rs.ado
+F stpm2_postestimation.sthlp
+F stpm2_pred.ado
